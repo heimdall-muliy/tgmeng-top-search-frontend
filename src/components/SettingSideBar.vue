@@ -17,7 +17,7 @@
     <!-- 右侧元素容器 -->
     <div class="flex-1 flex justify-end items-center space-x-4">
       <!-- 交流群 -->
-      <div style="width: 40px;">
+      <!--<div style="width: 40px;">
         <a href="https://wechat.tgmeng.com" target="_blank" data-umami-event="顶部右边交流群" data-umami-event-name="顶部右边交流群">
           <el-tooltip
               placement="bottom"
@@ -31,10 +31,10 @@
             </div>
           </el-tooltip>
         </a>
-      </div>
+      </div>-->
 
       <!-- 论坛 -->
-      <div style="width: 40px;">
+      <!--<div style="width: 40px;">
         <a href="https://bbs.tgmeng.com" target="_blank" data-umami-event="顶部右边论坛" data-umami-event-name="顶部右边论坛">
           <el-tooltip
               placement="bottom"
@@ -48,7 +48,7 @@
             </div>
           </el-tooltip>
         </a>
-      </div>
+      </div>-->
 
       <!-- 明暗主题 -->
       <div>
